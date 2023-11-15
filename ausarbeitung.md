@@ -1,4 +1,4 @@
-# Das Selbstmanagement-Modell 
+# Das Selbstmanagement-Modell
 
 **Vision einer zukunfsfähigen Organisation**
 
@@ -107,8 +107,8 @@
 ## 4. Schlüsselstragien für den Erfolg
 
 ---
-*4. Schlüsselstragien für den Erfolg 
-### Überwindung von Widerständen**
+*4. Schlüsselstragien für den Erfolg*
+### Überwindung von Widerständen
 
 - Unvermeidlicher Widerstand gegen Veränderungen
 - Wichtigkeit der Kommunikation von Vorteilen
@@ -184,6 +184,10 @@
 - Organisation mit wertgeschätzten Mitarbeitern
 - Treiber von Innovationen
 - positive Energie intern und extern sichtbar
+
+---
+## 5. Abschluss
+
 **Erfolge**
 - nicht jeder Mitarbeiter ist für das Modell geeignet
 - Respekt für individuelle Entscheidungen
