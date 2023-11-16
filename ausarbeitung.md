@@ -1,8 +1,19 @@
-# Das Selbstmanagement-Modell
+# Das Selbst-
+# management-Modell
 
 **Vision einer zukunfsfähigen Organisation**
 
 *Eine Präsentation von Leonie Weimann*
+---
+
+## Gliederung
+
+1. Das neue Arbeitsmodell
+2. Relevanz für Ihre Organisation
+3. Implementierung des Modells
+4. Schlüsselstrategien für den Erfolg
+5. Abschluss
+
 ---
 ## 1. Das neue Arbeitsmodell
 
