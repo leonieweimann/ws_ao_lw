@@ -80,6 +80,7 @@
 - Management-Unterstützung ist entscheidend
 - Schulungen und Meetings mit Agilem Team
 - Information über Forschritte und Bereitstellung von Tools
+- Belohnungssystem einführen bei Mangel an Beteiligung
 
 ---
 *3. Implementierung des Modells*
@@ -93,9 +94,13 @@
 ---
 *3. Implementierung des Modells*
 ### Merkmale von CLOUS
-
 - software-basierete CLOUS
   - Mission, Aktivitäten, Steppingstones, Zeitaufwand
+![CLOU](CLOUV2.png)
+
+---
+*3. Implementierung des Modells*
+### Merkmale von CLOUS
 - schnelle Überarbeitungsmöglichkeiten
 - integriertes Kollegen-Bewertungssystem
 - Fokus auf Kommunikation und Transparenz
@@ -205,7 +210,7 @@
 - Wichtigkeit von Testphasen zur Ermittlung des Modells
 - Möglichkeit zur Anpassung und Optimierung
 
-https://reinventingorganizationswiki.com/de/cases/morning-star/ 
+
 
 
 
