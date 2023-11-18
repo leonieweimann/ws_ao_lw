@@ -1,5 +1,4 @@
-# Das Selbst-
-# management-Modell
+## Das Selbstmanagement-Modell
 
 **Vision einer zukunfsfähigen Organisation**
 
@@ -194,7 +193,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
   - Informative Materialien, Videos, Webinare auf der Webseite
 
 ---
-## 5. Mehrwert für den Kunde
+## 5. Mehrwert für Ihre Kunden
 
 ---
 *5. Mehrwert für Ihre Kunden
@@ -205,13 +204,13 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 - schnelle Problemlösung
 
 ---
-*5. Mehrwert für Ihre Kunden
+*5. Mehrwert für Ihre Kunden*
 ### Flexibilität
 - individuelle Kundenbedürfnisse
 - Kreavität und Innovation
 
 ---
-*5. Mehrwert für Ihre Kunden
+*5. Mehrwert für Ihre Kunden*
 ### Mitarbeiterzufriedenheit
 - Engagement und Enthusiasmus
 - tiefgehendes Verständnis der Kunden
@@ -225,7 +224,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 - positive Energie intern und extern sichtbar
 
 ---
-## 5. Abschluss
+## 6. Abschluss
 
 **Erfolge**
 - nicht jeder Mitarbeiter ist für das Modell geeignet
