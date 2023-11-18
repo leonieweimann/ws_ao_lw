@@ -12,7 +12,8 @@
 2. Relevanz für Ihre Organisation
 3. Implementierung des Modells
 4. Schlüsselstrategien für den Erfolg
-5. Abschluss
+5. Mehrwert für Ihre Kunden
+6. Abschluss
 
 ---
 ## 1. Das neue Arbeitsmodell
@@ -110,7 +111,8 @@
 *3. Implementierung des Modells*
 ### Entscheidung zur Implementierung
 **Hybrid- vs. Vollimplementierung**
-- Entscheidung basierend auf Pilotprojekt-Erfahrungen
+
+Entscheidung basierend auf Pilotprojekt-Erfahrungen
 
 ---
 *3. Implementierung des Modells*
@@ -153,9 +155,7 @@
 ### Konfliktmanagement
 
 - Prozess zur Konfliktlösung
-  - 4-Augen-Prinzip
-  - Mediation (bei Scheitern des 4-Augen-Prinzips)
-  - Gremium (bei Scheitern der Mediation)
+![Konflikt](Konlikt.png)
 - Betonung der Mutigkeit in Schulungen
 
 ---
@@ -194,7 +194,30 @@
   - Informative Materialien, Videos, Webinare auf der Webseite
 
 ---
-## 5. Abschluss
+## 5. Mehrwert für den Kunde
+
+---
+*5. Mehrwert für Ihre Kunden
+### Schnelle Entscheidungsfindung
+- direkte Problemlösungen
+- schnelle Entscheidungswege
+- direkte Reaktion auf Kundenfeedback
+- schnelle Problemlösung
+
+---
+*5. Mehrwert für Ihre Kunden
+### Flexibilität
+- individuelle Kundenbedürfnisse
+- Kreavität und Innovation
+
+---
+*5. Mehrwert für Ihre Kunden
+### Mitarbeiterzufriedenheit
+- Engagement und Enthusiasmus
+- tiefgehendes Verständnis der Kunden
+
+---
+## 6. Abschluss
 
 **Rückblick auf die Vision**
 - Organisation mit wertgeschätzten Mitarbeitern
