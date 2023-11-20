@@ -239,9 +239,12 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 - Möglichkeit zur Anpassung und Optimierung
 
 ---
-##Referenzen
+## Referenzen
 
 - Hamel, G. (2021): First, let's fire all the managers. In: Harvard Business Review, 12, 2011)
 - Schumacher, T.; Wimmer, R. (2019): Der Trend zur hierarchiearmen Organisation. In: OrganisationsEntwicklung, 02, 2019, S. 12-18.
 - Schumacher, T.; Wimmer, R. (2019): Komplexität durch Schlichtheit managen. In: OrganisationsEntwicklung, 02, 2019, S. 51-55.
+---
+## Referenzen
+
 - Wartzmann, R. (2012): If selfmanagement is such a great ide, why aren't more companies doing it?, url: https://www.forbes.com/sites/drucker/2012/09/25/self-management-a-great-idea/?sh=75dfc10011de; Abfrage 05.11.2023.
