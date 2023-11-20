@@ -2,6 +2,7 @@
 **Die Vision einer zukunftsfähigen Organisation**
 ![Bild Anfang](Anfangsbild-6.png)
 
+
 **Eine Präsentation von Leonie Weimann**
 ---
 
