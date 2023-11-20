@@ -23,8 +23,8 @@
 - Grundprinziepin
   - keine traditionellen Manager oder Hierarchien
   - "CLOU" (College Letter of Understanding) als zentrales Element 
-    - jährliche Erstellung durch jeden Mitarbeiter
     - dient als Betriebsplan
+    - fördert die dynamische Zusammenarbeit
 ---
 ## 1. Das neue Arbeitsmodell
 
@@ -55,7 +55,7 @@
 ---
 ## 3. Implementierung des Modells
 
-** Wie kann das Modell in Ihre Organisation implementiert werden?**
+**Wie kann das Modell in Ihre Organisation implementiert werden?**
 
 ---
 *3. Implementierung des Modells*
@@ -100,9 +100,9 @@
 ---
 *3. Implementierung des Modells*
 ### Merkmale von CLOUS
-- software-basierete CLOUS
+- software-basierte CLOUS
   - Mission, Aktivitäten, Steppingstones, Zeitaufwand
-![CLOU](CLOUV2.png)
+![CLOU](CLOU3.png)
 
 ---
 *3. Implementierung des Modells*
@@ -169,6 +169,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 
 - Mitarbeiter aktiv involvieren
 - Transparenz und Zugriff auf wichtige Daten
+- verhindert Informationsbarrieren
 
 ---
 *4. Schlüsselstrategien für den Erfolg*
