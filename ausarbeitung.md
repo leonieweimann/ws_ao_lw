@@ -2,8 +2,8 @@
 **Die Vision einer zukunftsfähigen Organisation**
 
 **Eine Präsentation von Leonie Weimann**
-![Bild Anfang](Anfangsbild-6.png)
 
+![Bild Anfang](Anfangsbild-6.png)
 ---
 
 ## Gliederung
