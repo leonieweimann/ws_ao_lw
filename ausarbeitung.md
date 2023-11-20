@@ -3,7 +3,7 @@
 
 ![Bild Anfang](Anfangsbild-6.png)
 
-** Eine Präsentation von Leonie Weimann**
+**Eine Präsentation von Leonie Weimann**
 ---
 
 ## Gliederung
