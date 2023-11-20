@@ -1,9 +1,9 @@
 ## Das Selbstmanagement-Modell
 **Die Vision einer zukunftsfähigen Organisation**
+**Eine Präsentation von Leonie Weimann**
 
 ![Bild Anfang](Anfangsbild-6.png)
 
-**Eine Präsentation von Leonie Weimann**
 ---
 
 ## Gliederung
