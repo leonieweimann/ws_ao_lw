@@ -1,8 +1,8 @@
 ## Das Selbstmanagement-Modell
+**Die Vision einer zukunftsfähigen Organisation**
+![Bild Anfang](Anfangsbild-6.png)
 
-**Vision einer zukunfsfähigen Organisation**
-
-*Eine Präsentation von Leonie Weimann*
+**Eine Präsentation von Leonie Weimann**
 ---
 
 ## Gliederung
@@ -54,7 +54,7 @@
 ---
 ## 3. Implementierung des Modells
 
-**Wie implementiert man solch ein Modell in Ihre Organisation?**
+** Wie kann das Modell in Ihre Organisation implementiert werden?**
 
 ---
 *3. Implementierung des Modells*
@@ -64,6 +64,11 @@
 - Respekt für bisherige Strukturen
 - Aufbauend auf das Bestehende
 - Empfehlung: Schrittweise Implementierung
+
+---
+*3. Implementierung des Modells*
+
+![Konzeptgrafik](Konzeptgrafik.png)
 
 ---
 *3. Implementierung des Modells*
@@ -236,3 +241,6 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 
 
 
+
+
+[def]: Anfangsbild.png
