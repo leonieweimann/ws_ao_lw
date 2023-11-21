@@ -20,7 +20,7 @@
 
 - Entwicklung in den 1990er Jahren
 - Anwendung bei Morning Star, einem Tomaten-Truck Betrieb in Kalifornien
-- Grundprinziepin
+- Grundprinzipien
   - keine traditionellen Manager oder Hierarchien
   - "CLOU" (College Letter of Understanding) als zentrales Element 
     - dient als Betriebsplan
@@ -140,6 +140,13 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 
 ---
 *4. Schlüsselstrategien für den Erfolg*
+### Förderung der Eigeninitative
+
+- Verantwortungsübernahme fördern
+- Vorschläge von Kollegen evaluieren lassen
+
+---
+*4. Schlüsselstrategien für den Erfolg*
 ### Schulungen und Weiterbildung
 
 - umfassende Schulungen vor Implementierung
@@ -152,7 +159,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 
 - System regelmäßig überprüfen
 - Feedback der Mitarbeiter ist essentiell
-- mind. einmal jährliches Feedback der CLOU-Kollegen
+- regelmäßiges Feedback der CLOU-Kollegen
 - jährliche Strategietreffen der Teams
 
 ---
@@ -181,18 +188,11 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 
 ---
 *4. Schlüsselstrategien für den Erfolg*
-### Förderung der Eigeninitative
-
-- Verantwortungsübernahme fördern
-- Vorschläge von Kollegen evaluieren lassen
-
----
-*4. Schlüsselstrategien für den Erfolg*
 ### Rekrutierungsmaßnahmen
 
 - **Anpassung an Gen Y und Z**
   - Digitale Bewerbungsprozesse
-  - sinnvolle Arbeit und Weiterentwicklung 
+  - Weiterentwicklung 
   - Work Life Balance
 - **Umsetzung**
   - Online-Bewerbungsformulare
@@ -202,25 +202,14 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 ---
 ## 5. Mehrwert für Ihre Kunden
 
----
-*5. Mehrwert für Ihre Kunden
-### Schnelle Entscheidungsfindung
-- direkte Problemlösungen
-- schnelle Entscheidungswege
-- direkte Reaktion auf Kundenfeedback
-- schnelle Problemlösung
-
----
-*5. Mehrwert für Ihre Kunden*
-### Flexibilität
-- individuelle Kundenbedürfnisse
-- Kreavität und Innovation
-
----
-*5. Mehrwert für Ihre Kunden*
-### Mitarbeiterzufriedenheit
-- Engagement und Enthusiasmus
-- tiefgehendes Verständnis der Kunden
+- schnelle Entscheidungsfindung
+  - direkte Reaktion auf Kundenfeedback
+  - schnelle Problemlösung
+- Flexibilität
+  - individuelle Kundenbedüfnisse
+  - Kreativität und Innovation
+- Mitarbeiterzufriedenheit
+  - tiefgehendes Verständnis der Kunden
 
 ---
 ## 6. Abschluss
@@ -237,7 +226,6 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 - nicht jeder Mitarbeiter ist für das Modell geeignet
 - Respekt für individuelle Entscheidungen
 - Wichtigkeit von Testphasen zur Ermittlung des Modells
-- Möglichkeit zur Anpassung und Optimierung
 
 ---
 ## Referenzen
