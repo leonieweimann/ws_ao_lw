@@ -102,7 +102,7 @@
 ### Merkmale von CLOUS
 - software-basierte CLOUS
   - Mission, Aktivitäten, Steppingstones, Zeitaufwand
-![CLOU](CLOU3.png)
+![CLOU](CLOU-5.png)
 
 ---
 *3. Implementierung des Modells*
