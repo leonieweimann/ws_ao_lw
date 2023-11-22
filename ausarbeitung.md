@@ -61,7 +61,7 @@
 *3. Implementierung des Modells*
 ### Individualität von Unternehmen
 
-- Bedarf individueller Anpassung
+- Bedarf individueller Anpassungen
 - Respekt für bisherige Strukturen
 - Aufbauend auf das Bestehende
 - Empfehlung: Schrittweise Implementierung
@@ -85,7 +85,7 @@
 
 - Management-Unterstützung ist entscheidend
 - Schulungen und Meetings mit Agilem Team
-- Information über Forschritte und Bereitstellung von Tools
+- Information über Fortschritte und Bereitstellung von Tools
 - Belohnungssystem einführen bei Mangel an Beteiligung
 
 ---
@@ -127,10 +127,10 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 - Regelmäßige Bewertung für Effektivität und gewünschte Ergebnisse
 
 ---
-## 4. Schlüsselstragien für den Erfolg
+## 4. Schlüsselstrategien für den Erfolg
 
 ---
-*4. Schlüsselstragien für den Erfolg*
+*4. Schlüsselstrategien für den Erfolg*
 ### Überwindung von Widerständen
 
 - Unvermeidlicher Widerstand gegen Veränderungen
@@ -197,7 +197,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 - **Umsetzung**
   - Online-Bewerbungsformulare
   - Video-Interviews
-  - Informative Materialien, Videos, Webinare auf der Webseite
+  - informative Materialien, Videos, Webinare auf der Webseite
 
 ---
 ## 5. Mehrwert für Ihre Kunden
@@ -206,7 +206,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
   - direkte Reaktion auf Kundenfeedback
   - schnelle Problemlösung
 - Flexibilität
-  - individuelle Kundenbedüfnisse
+  - individuelle Kundenbedürfnisse
   - Kreativität und Innovation
 - Mitarbeiterzufriedenheit
   - tiefgehendes Verständnis der Kunden
@@ -230,7 +230,7 @@ Entscheidung basierend auf Pilotprojekt-Erfahrungen
 ---
 ## Referenzen
 
-- Hamel, G. (2021): First, let's fire all the managers. In: Harvard Business Review, 12, 2011)
+- Hamel, G. (2021): First, let's fire all the managers. In: Harvard Business Review, 12, 2011.
 - Schumacher, T.; Wimmer, R. (2019): Der Trend zur hierarchiearmen Organisation. In: OrganisationsEntwicklung, 02, 2019, S. 12-18.
 - Schumacher, T.; Wimmer, R. (2019): Komplexität durch Schlichtheit managen. In: OrganisationsEntwicklung, 02, 2019, S. 51-55.
 ---
